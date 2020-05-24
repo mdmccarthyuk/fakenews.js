@@ -1,0 +1,378 @@
+dancing	action
+running	action
+falling	action
+jumping	action
+eating	action
+breathing	action
+sniffing	action
+jogging	action
+biking	action
+reading	action
+shouting	action
+barking	action
+fondling	action
+groping	action
+fishing	action
+existing	action
+puffin	animal
+cat	animal
+dog	animal
+cow	animal
+rat	animal
+mouse	animal
+chicken	animal
+fish	animal
+rodent	animal
+puppy	animal
+moose	animal
+elk	animal
+spider	animal
+seagull	animal
+bear	animal
+gerbil	animal
+bat	animal
+weasel	animal
+ferret	animal
+lion	animal
+tiger	animal
+wombat	animal
+kangeroo	animal
+arm	bodypart
+leg	bodypart
+hand	bodypart
+willy	bodypart
+knob	bodypart
+vagina	bodypart
+penis	bodypart
+elbow	bodypart
+knee	bodypart
+teeth	bodypart
+eye	bodypart
+ear	bodypart
+nose	bodypart
+eyebrow	bodypart
+lung	bodypart
+colon	bodypart
+kidney	bodypart
+liver	bodypart
+heart	bodypart
+shadow	bodypart
+shop	business
+restaurant	business
+cafe	business
+zoo	business
+recycling plant	business
+salon	business
+lab	business
+museum	business
+college	business
+discotheque	business
+gallery	business
+supermarket	business
+boutique	business
+clothes shop	business
+winery	business
+Limmy   celeb
+Donald Trump	celeb
+Teresa May	celeb
+Barack Obama	celeb
+Boris Johnson	celeb
+Sting	celeb
+Mary Berry	celeb
+Paul Hollywood	celeb
+Gary Newman	celeb
+Jimmy Saville	celeb
+Patrick Stewart	celeb
+Rose West	celeb
+Fred West	celeb
+The Queen	celeb
+Prince Charles	celeb
+Danny Baker	celeb
+Chris Evans	celeb
+Tom Jones	celeb
+Michael Portillo	celeb
+Tony Blair	celeb
+Rolf Harris	celeb
+Condoliza Rice	celeb
+Anne Widdecombe	celeb
+Samuel L Jackson	celeb
+Dave Lee Travis	celeb
+Frank Bruno	celeb
+Robert Smith	celeb
+Terrance Trent Derby	celeb
+Terry Wogan	celeb
+Violet Berlin	celeb
+Dominic Diamond	celeb
+Andy Peters	celeb
+Philip Schofield	celeb
+Mr T	celeb
+Mr Motivator	celeb
+Donny Osmond	celeb
+Ross Kemp	celeb
+wood carving	creation
+painting	creation
+sculpture	creation
+statue	creation
+tapestry	creation
+new type peanut	creation
+carpet	creation
+drawing	creation
+etchings	creation
+sketch	creation
+story	creation
+sonnet	creation
+poem    creation
+drama   creation
+farce   creation
+bath mat    creation
+rhyme	creation
+construct	creation
+blueprint	creation
+invention	creation
+dance	creation
+movement	creation
+software	creation
+bench	creation
+inking	creation
+tattoo	creation
+murder	crime
+cattle wrustling	crime
+sexy crime	crime
+badger worrying	crime
+cake toppling	crime
+buttock pinching	crime
+misquoting scripture	crime
+twattery	crime
+battery	crime
+public nudity	crime
+buggery	crime
+sodomy	crime
+stabbing	crime
+arson	crime
+angry	desc
+erotic	desc
+scary	desc
+spooky	desc
+fiesty	desc
+gloomy	desc
+stupid	desc
+foolish	desc
+racist	desc
+petty	desc
+oily	desc
+grimy	desc
+dusty	desc
+musty	desc
+soiled	desc
+big handed	desc
+big faced	desc
+smelly	desc
+happy	desc
+joy filled	desc
+nostalgic	desc
+dead	desc
+respected	desc
+sad	desc
+naked	desc
+deaf	desc
+blind	desc
+damp	desc
+clammy	desc
+daft	desc
+competent	desc
+incompetent	desc
+fist headed	desc
+armless	desc
+foul	desc
+charming	desc
+lost	desc
+misplaced	desc
+irritating	desc
+horny	desc
+panicked	desc
+deranged	desc
+silly	desc
+roly poly	desc
+cop	descpers
+milkman	descpers
+butcher	descpers
+grocer	descpers
+fool	descpers
+clown	descpers
+baker	descpers
+teacher	descpers
+engineer	descpers
+chimney sweep	descpers
+disk jockey	descpers
+bus driver	descpers
+policeman	descpers
+murderer	descpers
+scientist	descpers
+doctor	descpers
+medic	descpers
+shopkeeper	descpers
+cleric	descpers
+priest	descpers
+vicar	descpers
+oik	descpers
+lout	descpers
+youth	descpers
+fisherman	descpers
+dock worker	descpers
+vagrant	descpers
+tramp	descpers
+rapscallion	descpers
+vagabond	descpers
+organist	descpers
+bufoon	descpers
+nincompoop	descpers
+genius	descpers
+kid	descpers
+child	descpers
+boy	descpers
+girl	descpers
+man	descpers
+woman	descpers
+lifeform	descpers
+data scientist	descpers
+statistician	descpers
+physician	descpers
+rabbi	descpers
+mime	descpers
+trickster	descpers
+funny man	descpers
+comedian	descpers
+marketing	division
+sales	division
+finance	division
+research	division
+development	division
+complaints	division
+management	division
+analysis	division
+customer service	division
+apple	food
+banana	food
+cake	food
+fruitcake	food
+chocolate cake	food
+tart	food
+drink	food
+empanada	food
+egg	food
+boiled egg	food
+flan	food
+fried egg	food
+grilled fish	food
+goulash	food
+pea soup	food
+beef stew	food
+fishcake	food
+chips	food
+crisps	food
+pancakes	food
+pasty	food
+quiche	food
+beans	food
+ham sandwich	food
+fruit juice	food
+jacket potato	food
+rollmop herring	food
+sausage	food
+victory	goodoutcome
+cash	goodoutcome
+charity	goodoutcome
+the poor	goodoutcome
+sport	goodoutcome
+tin can	object
+brick	object
+satellite dish	object
+robot	object
+car	object
+bicycle	object
+unicycle	object
+truck	object
+doorstop	object
+engine	object
+sex toy	object
+smoke machine	object
+guitar	object
+bongo	object
+trumpet	object
+wife	object
+bath mat	object
+plynth	object
+plant pot	object
+draft excluder	object
+bear trap	object
+extractor fan	object
+cage	object
+antenna	object
+death	outcome
+sadness	outcome
+depression	outcome
+terrible scalded hand	outcome
+disapproval	outcome
+shame	outcome
+itches	outcome
+arse failure	outcome
+loss of respect	outcome
+fire	outcome
+alarm	outcome
+unforseen circumstances	outcome
+mystery	outcome
+arousal	outcome
+aberdeen	place
+bridlington	place
+bristol	place
+central portsmouth	place
+croydon	place
+edinburgh	place
+filey	place
+glasgow	place
+goole	place
+hull	place
+ilkley	place
+ipswich	place
+leeds	place
+liverpool	place
+london	place
+manchester	place
+new york	place
+scarborough	place
+sidcup	place
+warsaw	place
+whitby	place
+yarm	place
+york	place
+bathmat	product
+personal massager	product
+t-shirt	product
+dinner set	product
+fork	product
+shoe	product
+tractor	product
+dishcloth	product
+bracelet	product
+bangle	product
+trinket	product
+teacup	product
+plaque	product
+coca-cola	trademarks
+pease-pudding	trademarks
+tesco	trademarks
+mars	trademarks
+walls	trademarks
+pal	trademarks
+whiskas trademarks
+red bull	trademarks
+cadburys	trademarks
+original bible	treasure
+gold	treasure
+jewels	treasure
+ark of the covenant	treasure
+cancer cure	treasure
+secret of eternal life	treasure
+lovely toast	treasure
+rare flower	treasure
+ornate brass hand	treasure
